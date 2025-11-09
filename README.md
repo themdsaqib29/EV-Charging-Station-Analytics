@@ -47,7 +47,7 @@ EV-Charging-Station-Analytics/
 - Achieved:
   - **MAE:** 0.50  
   - **RMSE:** 0.72  
-  - **R² Score:** 1.00  
+  - **R² Score:** 0.99  
 
 ### 5. Explainability (SHAP)
 - Implemented **SHAP (SHapley Additive exPlanations)** for model interpretability  
@@ -110,7 +110,7 @@ Access the full analysis and model notebook on Google Colab:
 | Avg Predicted Cost | 22.55 |
 | MAE | 0.50 |
 | RMSE | 0.72 |
-| R² Score | 1.00 |
+| R² Score | 0.99 |
 
 **Top Features by Importance (SHAP):**  
 Day of Week, Vehicle Model, Time of Day, Charger Type, City
@@ -141,5 +141,5 @@ You are free to use, modify, and distribute this work with proper attribution.
 Final Year B.Tech, Computer Science Engineering (Big Data Analytics)  
 SRM Institute of Science and Technology 
 
-LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mohamed-saqib1029)  
+LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mohamed-saqib1029)  
 GitHub: [https://github.com/themdsaqib29](https://github.com/themdsaqib29)
